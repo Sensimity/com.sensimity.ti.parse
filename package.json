@@ -41,6 +41,6 @@
   },
   "nativeDependencies": {
     "reste": "1.1.4",
-    "eu.rebelcorp.parse": "0.7"
+    "eu.rebelcorp.parse": "0.9"
   }
 }
