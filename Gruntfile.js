@@ -19,17 +19,6 @@ module.exports = function(grunt) {
             }
         },
 
-        titanium: {
-            ios: {
-                options: {
-                    command: 'build',
-                    logLevel: 'debug',
-                    projectDir: './example',
-                    platform: 'ios'
-                }
-            }
-        },
-
         unzip: {
             module: {
                 src: 'dist/com.sensimity.ti.parse-commonjs-<%= pkg.version %>.zip',
