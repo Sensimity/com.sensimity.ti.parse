@@ -31,6 +31,10 @@ To be able to use this module you'll need to add 2 types of configuration:
 
 For Android support this module has a dependency to an additional [Parse](https://github.com/timanrebel/Parse) module to be able to subscribe your device for GCM. 
 
+## Known issues
+
+This library only works for Alloy based Titanium apps because internally Backbone is used for the event dispatching.
+
 ## Changelog
 
 * 0.1.0 Initial version
