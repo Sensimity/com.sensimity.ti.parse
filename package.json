@@ -1,6 +1,6 @@
 {
   "name": "com.sensimity.ti.parse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Push notifications via Parse",
   "titaniumManifest": {
     "guid": "e1b53b66-feea-3e77-abcc-55bd36e84fa8",
@@ -41,6 +41,6 @@
   },
   "nativeDependencies": {
     "reste": "1.1.7",
-    "eu.rebelcorp.parse": "0.9"
+    "eu.rebelcorp.parse": "0.10"
   }
 }
